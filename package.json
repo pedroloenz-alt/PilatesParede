@@ -1,0 +1,11 @@
+﻿{
+  "name": "pilates-parede-quiz",
+  "version": "1.0.0",
+  "description": "Funil completo e quiz interativo de Pilates na Parede",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "pedroloenz-alt",
+  "license": "ISC"
+}
